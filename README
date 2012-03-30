@@ -1,0 +1,11 @@
+Most of my students are in the job market and after suggesting them websites where they could look for jobs, I took a peak at craigslist. I like craigslist; its a simple, bare-bones website with pure text. However, the search functionality is a bit awkward, and it is hard to find a good match between the candidate skills and a particular job posting. If you are seriously looking at every single “filtered” post, it may still take you over an hour to look for the best skill-to-job matches. So I created two scripts, one in Perl and the other one in Bash, that scavenge all the job postings for skill matches, and create a new webpage with all the appropriate positions and matched skills in a ready to click link. Data mining at its best!
+
+There are some “limitations” of these scripts. First of all they were only tested in macOSX and Linux, however I am sure you can convert them quite easily to Windows. Secondly, I’ve focused all the craigslist searches around New England. You may add other craigslist locations quite easily by following the instructions on the perl script.
+
+See the post at 
+http://www.nunoalves.com/open_source/?p=252
+For instructions on how to use the scripts.
+
+Please post comments with feedback.
+
+Nuno Alves
