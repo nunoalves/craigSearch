@@ -29,7 +29,7 @@ function search_jobs
 #################################################################################
 #You may modify your skills below
 #################################################################################
-SEARCH_SKILLS="embedded, circuit, transistor, VLSI, firmware, RTOS, kernel, MacOSX, JTAG, oscilloscope, HDL, FPGA, Arduino, MSP430, OMAP3540, micro-controllers, microcontrollers, SVN, programmer, Perl, linux, Mathematica, LabVIEW, schematics, Verilog, VHDL"
+SEARCH_SKILLS="embedded, MSP430, Arduino, AVR, circuit, transistor, VLSI, firmware, RTOS, kernel, MacOSX, JTAG, oscilloscope, HDL, FPGA, Arduino, MSP430, OMAP3540, micro-controllers, microcontrollers, SVN, programmer, Perl, linux, Mathematica, LabVIEW, schematics, Verilog, VHDL"
 SEARCH_NAME="engineering"
 search_jobs ${SEARCH_NAME}
 
